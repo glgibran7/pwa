@@ -1,6 +1,5 @@
 {
-"pruducts";
-[{"id":1,"Name":"Rhea, gray","Category":"Purple"},
+"pruducts":[{"id":1,"Name":"Rhea, gray","Category":"Purple"},
 {"id":2,"Name":"Indian porcupine","Category":"Pink"},
 {"id":3,"Name":"Tokay gecko","Category":"Fuscia"},
 {"id":4,"Name":"Leopard","Category":"Purple"},
@@ -20,5 +19,4 @@
 {"id":18,"Name":"Canada goose","Category":"Teal"},
 {"id":19,"Name":"Falcon, peregrine","Category":"Teal"},
 {"id":20,"Name":"Ringtail","Category":"Green"}]
-
 }
